@@ -23,7 +23,7 @@ Media Query
 
 ## Author
 
-- Website - [Selvedin](https://www.your-site.com)
+- Website - [Selvedin](https://gleaming-sprite-ba0dcd.netlify.app)
 - Frontend Mentor - [@SelvedinFrontEnd](https://www.frontendmentor.io/profile/SelvedinFrontEnd)
 
 
